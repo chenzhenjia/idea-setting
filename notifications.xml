@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Lombok plugin" shouldLog="false" />
+    <notification groupId="NOTIFICATION_API_KEY" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="NOTIFICATION_APP_KEY" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
