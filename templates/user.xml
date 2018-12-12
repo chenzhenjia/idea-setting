@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="yl" value="/**&#10; * &#10; * TODO&lt;获取授权码&gt;&#10; * @param $params$&#10; * @throws BusinessException&#10; * @throw&#10; * @return $returns$&#10; */" description="银联商务方法注释模板" toReformat="false" toShortenFQNames="true">
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="returns" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
