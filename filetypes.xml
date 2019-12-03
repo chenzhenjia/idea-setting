@@ -1,0 +1,30 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="JRebelPublicKeyGetPublicKey" type="PLAIN_TEXT" />
+      <mapping pattern="done_mark_file" type="PLAIN_TEXT" />
+      <mapping pattern="LicensesUpload" type="PLAIN_TEXT" />
+      <mapping pattern="pid" type="PLAIN_TEXT" />
+      <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
+      <mapping pattern="leasePrepareOfflineLease" type="PLAIN_TEXT" />
+      <mapping pattern="config_properties" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="jasper" type="PLAIN_TEXT" />
+      <mapping ext="9__修改出账机构表和分支机构表" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="*" value="/**&#10; * &#10; * @author chenzhenjia&#10; * @param $params$&#10; */" description="方法注释模板" toReformat="false" toShortenFQNames="true">
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
